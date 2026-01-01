@@ -214,16 +214,16 @@ order_items
 ## 📸 Screenshots
 
 ### Products Page
-![Products Page]()
+
 <img width="2056" height="1200" alt="image" src="https://github.com/user-attachments/assets/aa56abb7-12cf-4a1d-8ef6-3ef11ea3cc57" />
 
 ### Shopping Cart
-![Shopping Cart]()
+
 <img width="2048" height="1043" alt="image" src="https://github.com/user-attachments/assets/c8266851-d611-4884-bf17-f2497469326e" />
 
 
 ### Checkout
-![Checkout]()
+
 <img width="2034" height="634" alt="image" src="https://github.com/user-attachments/assets/7559a913-61b4-464d-9e73-8264b45e586a" />
 
 
