@@ -17,29 +17,29 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="sticky top-0 z-50 bg-white border-b-2 border-gray-100 shadow-md">
+    <nav className="sticky top-0 z-50 bg-white border-b border-gray-200 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-3">
-            <div className="w-11 h-11 bg-brand-primary rounded-xl flex items-center justify-center shadow-lg">
-              <Store className="w-7 h-7 text-white" />
+            <div className="w-10 h-10 bg-brand-navy rounded-lg flex items-center justify-center shadow-md">
+              <Store className="w-6 h-6 text-white" />
             </div>
-            <span className="text-2xl font-black text-gray-900">
+            <span className="text-2xl font-bold text-gray-900">
               ShopHub
             </span>
           </Link>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
-            <Link to="/products" className="text-gray-700 hover:text-brand-primary font-semibold transition-colors">
+            <Link to="/products" className="text-gray-700 hover:text-brand-navy font-semibold transition-colors">
               Products
             </Link>
 
             <Link to="/cart" className="relative p-2">
-              <ShoppingCart className="w-6 h-6 text-gray-700 hover:text-brand-primary transition-colors" />
+              <ShoppingCart className="w-6 h-6 text-gray-700 hover:text-brand-navy transition-colors" />
               {itemCount > 0 && (
-                <span className="absolute -top-1 -right-1 bg-brand-primary text-white text-xs w-5 h-5 rounded-full flex items-center justify-center font-bold shadow-lg">
+                <span className="absolute -top-1 -right-1 bg-brand-navy text-white text-xs w-5 h-5 rounded-full flex items-center justify-center font-bold shadow-lg">
                   {itemCount}
                 </span>
               )}
@@ -54,10 +54,10 @@ export default function Navbar() {
               </div>
             ) : (
               <div className="flex items-center space-x-3">
-                <Link to="/login" className="text-gray-700 hover:text-brand-primary font-semibold">
+                <Link to="/login" className="text-gray-700 hover:text-brand-navy font-semibold">
                   Login
                 </Link>
-                <Link to="/register" className="bg-brand-primary hover:bg-brand-dark text-white px-5 py-2.5 rounded-lg transition-colors font-semibold shadow-lg">
+                <Link to="/register" className="bg-brand-navy hover:bg-blue-900 text-white px-5 py-2.5 rounded-lg transition-colors font-semibold shadow-md">
                   Sign Up
                 </Link>
               </div>
@@ -73,12 +73,12 @@ export default function Navbar() {
 
       {/* Mobile Menu */}
       {mobileMenuOpen && (
-        <div className="md:hidden bg-white border-t border-gray-100">
+        <div className="md:hidden bg-white border-t border-gray-200">
           <div className="px-4 py-4 space-y-3">
-            <Link to="/products" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-gray-700 hover:text-brand-primary font-semibold">
+            <Link to="/products" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-gray-700 hover:text-brand-navy font-semibold">
               Products
             </Link>
-            <Link to="/cart" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-gray-700 hover:text-brand-primary font-semibold">
+            <Link to="/cart" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-gray-700 hover:text-brand-navy font-semibold">
               Cart ({itemCount})
             </Link>
             {user ? (
@@ -90,10 +90,10 @@ export default function Navbar() {
               </>
             ) : (
               <>
-                <Link to="/login" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-gray-700 hover:text-brand-primary font-semibold">
+                <Link to="/login" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-gray-700 hover:text-brand-navy font-semibold">
                   Login
                 </Link>
-                <Link to="/register" onClick={() => setMobileMenuOpen(false)} className="block py-2 bg-brand-primary text-white text-center rounded-lg font-semibold">
+                <Link to="/register" onClick={() => setMobileMenuOpen(false)} className="block py-2 bg-brand-navy text-white text-center rounded-lg font-semibold">
                   Sign Up
                 </Link>
               </>

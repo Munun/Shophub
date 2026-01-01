@@ -8,10 +8,10 @@ export default {
     extend: {
       colors: {
         'brand': {
-          'primary': '#ea580c',    // Deep Orange (main)
-          'secondary': '#fb923c',   // Light Orange (accents)
-          'dark': '#9a3412',        // Dark Orange (text/borders)
-          'light': '#fed7aa',       // Pale Orange (backgrounds)
+          'navy': '#1e3a8a',       // Primary - trust
+          'slate': '#64748b',       // Secondary - calm
+          'emerald': '#10b981',     // Success
+          'orange': '#f97316',      // CTA only
         }
       }
     },
