@@ -222,13 +222,6 @@ order_items
 ### Checkout
 ![Checkout](https://via.placeholder.com/800x500?text=Checkout+Screenshot)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 👤 Author
 
