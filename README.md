@@ -215,6 +215,7 @@ order_items
 
 ### Products Page
 ![Products Page](https://via.placeholder.com/800x500?text=Products+Page+Screenshot)
+<img width="2056" height="1200" alt="image" src="https://github.com/user-attachments/assets/aa56abb7-12cf-4a1d-8ef6-3ef11ea3cc57" />
 
 ### Shopping Cart
 ![Shopping Cart](https://via.placeholder.com/800x500?text=Shopping+Cart+Screenshot)
