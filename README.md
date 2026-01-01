@@ -214,15 +214,17 @@ order_items
 ## 📸 Screenshots
 
 ### Products Page
-![Products Page](https://via.placeholder.com/800x500?text=Products+Page+Screenshot)
+![Products Page]()
 <img width="2056" height="1200" alt="image" src="https://github.com/user-attachments/assets/aa56abb7-12cf-4a1d-8ef6-3ef11ea3cc57" />
 
 ### Shopping Cart
-![Shopping Cart](<img width="1625" height="1027" alt="image" src="https://github.com/user-attachments/assets/0b8a1d30-e8ec-4065-9b32-6edb7034a74a" />
-)
+![Shopping Cart]()
+<img width="1625" height="1027" alt="image" src="https://github.com/user-attachments/assets/0b8a1d30-e8ec-4065-9b32-6edb7034a74a" />
 
 ### Checkout
-![Checkout](https://via.placeholder.com/800x500?text=Checkout+Screenshot)
+![Checkout]()
+<img width="2034" height="634" alt="image" src="https://github.com/user-attachments/assets/7559a913-61b4-464d-9e73-8264b45e586a" />
+
 
 
 ## 👤 Author
