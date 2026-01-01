@@ -2,7 +2,7 @@
 
 A modern, full-stack e-commerce web application built with React, Node.js, Express, and PostgreSQL.
 
-![ShopHub Banner](https://via.placeholder.com/800x400/ea580c/ffffff?text=ShopHub+E-Commerce)
+<img width="2056" height="1200" alt="image" src="https://github.com/user-attachments/assets/aa56abb7-12cf-4a1d-8ef6-3ef11ea3cc57" />
 
 ## ✨ Features
 
@@ -215,7 +215,8 @@ order_items
 
 ### Products Page
 
-<img width="2056" height="1200" alt="image" src="https://github.com/user-attachments/assets/aa56abb7-12cf-4a1d-8ef6-3ef11ea3cc57" />
+<img width="2028" height="1198" alt="image" src="https://github.com/user-attachments/assets/747bc511-7d45-4c72-931b-534df92e59be" />
+
 
 ### Shopping Cart
 
