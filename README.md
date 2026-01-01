@@ -219,7 +219,8 @@ order_items
 
 ### Shopping Cart
 ![Shopping Cart]()
-<img width="1625" height="1027" alt="image" src="https://github.com/user-attachments/assets/0b8a1d30-e8ec-4065-9b32-6edb7034a74a" />
+<img width="2048" height="1043" alt="image" src="https://github.com/user-attachments/assets/c8266851-d611-4884-bf17-f2497469326e" />
+
 
 ### Checkout
 ![Checkout]()
