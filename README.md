@@ -64,7 +64,7 @@ shophub-complete/
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/shophub.git
+git clone https://github.com/Munun/shophub.git
 cd shophub
 ```
 
@@ -235,7 +235,7 @@ This project is licensed under the MIT License.
 **Munun Patel**
 - Email: Patel.mun25@gmail.com
 - LinkedIn: [linkedin.com/in/munun](https://linkedin.com/in/munun)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Munun](https://github.com/Munun)
 
 ## 🙏 Acknowledgments
 
